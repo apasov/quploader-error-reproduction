@@ -19,7 +19,6 @@
     "dependencies": {
         "quasar-framework": "^0.14.4",
         "vue": "~2.3.4",
-        "vuelidate": "^0.6.0",
         "vuex": "^2.4.1"
     }
 }
